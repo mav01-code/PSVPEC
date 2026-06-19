@@ -22,6 +22,6 @@
 - Event-Driven Architecture (EDA)
 - Promises, Event Loop
 
-## Session-6: 
+## Session-6: API
 - API - REST API, HTTP methods & status codes
 - Postman hands-on and fetch() in JS
